@@ -1,3 +1,14 @@
+#FirstParagraph {
+  background-color: blue;
+  color: white;
+}
+p:hover {
+  font-weight:bold;
+  background-color:red;
+}
+#SecondParagraph {
+  font-family: Barrio;
+}
 
 .box {
   width: 100px;
@@ -6,7 +17,7 @@
 }
 
 #one {
-  background-color: red;
+  background-color: blue;
 }
 
 #two {
@@ -16,3 +27,15 @@
 #three {
   background-color: green;
 }
+#p6:hover {
+  color:orange;
+  background-color:white;
+}
+#image {
+  margin: auto;
+  width:50% ;
+}
+p {
+  
+}
+  
